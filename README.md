@@ -30,6 +30,12 @@ Bienvenido a mi portafolio personal de ingeniería de software. Este repositorio
 * **Descripción:** Entorno de simulación industrial que gestiona una rutina de fabricación automatizada determinista para un brazo robótico ABB. Controla las trayectorias para costuras de soldadura continuas, la orientación de la herramienta y la verificación de espacios de trabajo libres de colisiones.
 * **Explorar carpeta:** [`/03-ABB-Autonomus-Welder`](./03-ABB-Autonomus-Welder)
 
+### ⚔️ 04. Sistema de Combate RPG
+* **Tecnologías:** C++, Framework Qt y STL (Standard Template Library)
+* **Enfoque clave:** Mecánicas de combate por equipos por turnos, patrones de diseño orientados a objetos, balance dinámico de inventario/tienda y serialización de archivos con marcas de tiempo.
+* **Descripción:** Un videojuego de combate RPG equipo contra equipo por turnos desarrollado en C++ utilizando Qt y principios avanzados de POO. Cuenta con mecánicas de personajes polimórficos, un sistema automatizado de experiencia y niveles, balance dinámico de tienda e inventario, registro de batallas en tiempo real y persistencia del estado del juego mediante marcas de tiempo.
+* **Explorar carpeta:** [`/04-RPG-Combat-System`](./04-RPG-Combat-System)
+
 ## 🚀 Entornos y Compilación
 
 Los proyectos de este laboratorio han sido desarrollados y testeados en los siguientes entornos:
@@ -61,6 +67,13 @@ Welcome to my personal software engineering showcase. This repository is a curat
 * **Core Focus:** Industrial offline programming (OLP), coordinate sequencing, and safety state machines.
 * **Overview:** A simulation suite managing a deterministic automated manufacturing routine for an ABB industrial arm. It handles path adjustments for continuous welding seams, tool orientation, and collision-free workspace checking.
 * **Explore Directory:** [`/03-ABB-Autonomus-Welder`](./03-ABB-Autonomus-Welder)
+
+### ⚔️ 04. RPG Combat System
+* **Tech Stack:** C++, Qt Framework & STL (Standard Template Library)
+* **Core Focus:** Turn-based team combat mechanics, object-oriented design patterns, dynamic inventory/store balance, and timestamped file serialization.
+* **Overview:** A C++ turn-based team-vs-team RPG combat game developed using Qt and advanced OOP principles. It features polymorphic character mechanics, an automated experience and leveling system, dynamic store and inventory balance, real-time battle logging, and timestamped game state persistence.
+* **Explore Directory:** [`/04-RPG-Combat-System`](./04-RPG-Combat-System)
+
 
 ## 🚀 Environment & Toolchains
 
