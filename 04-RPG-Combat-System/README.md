@@ -92,9 +92,7 @@ sudo apt install build-essential qtcreator qtbase5-dev qt5-qmake
 1. **Clonar el repositorio:**
    ```bash
    git clone https://github.com
-   cd RPG-Game/src
-   # Entra en la carpeta del código si está dentro de una subcarpeta
-   cd trabajo_G_05.27_18.20
+   cd RPG-Combar-System/src
    ```
 
 2. **Generar el Makefile con qmake:**
@@ -227,9 +225,7 @@ sudo apt install build-essential qtcreator qtbase5-dev qt5-qmake
 1. **Clone the repository:**
    ```bash
    git clone https://github.com
-   cd RPG-Game/src
-   # Navigate to the source folder if it is inside a subdirectory
-   cd trabajo_G_05.27_18.20
+   cd RPG-Combat-System/src
    ```
 
 2. **Generate the Makefile using qmake:**
