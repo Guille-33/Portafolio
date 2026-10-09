@@ -36,6 +36,15 @@ Bienvenido a mi portafolio personal de ingeniería de software. Este repositorio
 * **Descripción:** Un videojuego de combate RPG equipo contra equipo por turnos desarrollado en C++ utilizando Qt y principios avanzados de POO. Cuenta con mecánicas de personajes polimórficos, un sistema automatizado de experiencia y niveles, balance dinámico de tienda e inventario, registro de batallas en tiempo real y persistencia del estado del juego mediante marcas de tiempo.
 * **Explorar carpeta:** [`/04-RPG-Combat-System`](./04-RPG-Combat-System)
 
+### 🤖 RAG AI Engineering Project
+
+**ES:** Proyecto de ingeniería de Inteligencia Artificial centrado en sistemas RAG (*Retrieval-Augmented Generation*), que combinan la recuperación de información con modelos de lenguaje para generar respuestas fundamentadas en documentos y fuentes de conocimiento.
+
+- **Área:** Inteligencia Artificial e Ingeniería de Datos.
+- **Tecnología:** Sistemas RAG y modelos de lenguaje (LLM).
+- **Objetivo:** Desarrollar soluciones de IA capaces de recuperar información relevante y generar respuestas contextualizadas.
+- **Repositorio:** [RAG-AI-Engineering-Project](./RAG-AI-Engineering-Project/)
+
 ## 🚀 Entornos y Compilación
 
 Los proyectos de este laboratorio han sido desarrollados y testeados en los siguientes entornos:
@@ -73,6 +82,14 @@ Welcome to my personal software engineering showcase. This repository is a curat
 * **Core Focus:** Turn-based team combat mechanics, object-oriented design patterns, dynamic inventory/store balance, and timestamped file serialization.
 * **Overview:** A C++ turn-based team-vs-team RPG combat game developed using Qt and advanced OOP principles. It features polymorphic character mechanics, an automated experience and leveling system, dynamic store and inventory balance, real-time battle logging, and timestamped game state persistence.
 * **Explore Directory:** [`/04-RPG-Combat-System`](./04-RPG-Combat-System)
+
+### 🤖 RAG AI Engineering Project
+**EN:** Artificial Intelligence engineering project focused on Retrieval-Augmented Generation (RAG) systems, combining information retrieval with large language models to generate responses grounded in documents and knowledge sources.
+
+- **Field:** Artificial Intelligence and Data Engineering.
+- **Technology:** RAG systems and Large Language Models (LLMs).
+- **Goal:** Build AI solutions capable of retrieving relevant information and generating context-aware responses.
+- **Repository:** [RAG-AI-Engineering-Project](./RAG-AI-Engineering-Project/)
 
 
 ## 🚀 Environment & Toolchains
