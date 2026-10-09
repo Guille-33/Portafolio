@@ -79,7 +79,11 @@ int menu(){
     do{
         option=0;
         printf("ENTER OPTION: ");
-        scanf("%i",&option);
+        if (scanf("%i", &option) != 1) {
+            int c;
+            while ((c = getchar()) != '\n' && c != EOF);
+            continue;
+        }
     }while(option<1||option>5);
     return option;
 }
